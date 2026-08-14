@@ -1,0 +1,1 @@
+This project establishes a reproducible Python workflow for analyzing publicly available SPY market data and evaluating whether historical market information can help predict next-day returns.
