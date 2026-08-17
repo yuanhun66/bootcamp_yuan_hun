@@ -15,3 +15,4 @@ def get_key(name: str, default: Optional[str] = None) -> Optional[str]:
 
 PROJECT_ROOT = Path.cwd()
 DATA_DIR = PROJECT_ROOT / "data"
+print(DATA_DIR)
